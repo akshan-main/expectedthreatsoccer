@@ -7,3 +7,5 @@ In this project, I have analyzed the performance of Manchester United forward Ma
 
 Data collected from:
 fbref, statbomb
+
+The file "expected_threat.csv" is based on "Explaining Expected Threat" by David Sumpter. It follows the grid of xT at various zones across the football pitch.
