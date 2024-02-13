@@ -14,3 +14,7 @@ The file "expected_threat.csv" is based on "Explaining Expected Threat" by David
 
 
 ![xT_grid](https://github.com/akshan-main/expectedthreatsoccer/assets/97239696/436a542c-3500-4364-89ca-f7bc44b03831)
+
+
+
+This is inspired from https://theathletic.com/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/ , fantasy premier league and McKay Johns
