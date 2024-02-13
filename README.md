@@ -9,4 +9,8 @@ Data collected from:
 fbref, statbomb
 
 The file "expected_threat.csv" is based on "Explaining Expected Threat" by David Sumpter. It follows the grid of xT at various zones across the football pitch.
+
+
+
+
 ![xT_grid](https://github.com/akshan-main/expectedthreatsoccer/assets/97239696/436a542c-3500-4364-89ca-f7bc44b03831)
